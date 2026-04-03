@@ -14,7 +14,7 @@
 This retrospective cohort study examined COVID-19 mortality risk among 120,201 people with HIV (PWH) in Florida from March 2020 through December 2021, comparing the period before vaccine availability (March 1, 2020–April 30, 2021) with the period during vaccine availability (May 1, 2021–December 31, 2021). Using Fine–Gray competing-risks subdistribution hazard models, we assessed the role of individual-level factors (age, sex, race/ethnicity, transmission category, viral suppression, place of birth) and community-level factors (Social Vulnerability Index, rural-urban status, county vaccination rates) in shaping COVID-19 mortality differences across subgroups.
 
 **Key findings:**
-- Overall mortality rates were similar before and during vaccine availability (13.3 vs. 11.2 per 100,000 person-months)
+- Overall mortality rates were similar before and during vaccine availability
 - Racial/ethnic disparities persisted for Non-Hispanic Black PWH but attenuated for Hispanic PWH
 - Virally unsuppressed PWH had significantly higher hazard during (but not before) vaccine availability
 - Higher socioeconomic vulnerability (SVI Theme 1) was associated with elevated mortality during vaccine availability
